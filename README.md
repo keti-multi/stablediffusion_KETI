@@ -8,6 +8,9 @@ new checkpoints. The following list provides an overview of all currently availa
 
 ## News
 
+**Aug 16, 2023**
+
+- Forked KETI version
 
 **March 24, 2023**
 
